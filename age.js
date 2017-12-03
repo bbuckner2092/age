@@ -6,3 +6,7 @@ if (age < 0) {
 if (age === 21) {
 	console.log("happy 21 birthday!");
 }
+
+if (age % 2 !== 0) {
+	console.log("Your age is odd!");
+}
